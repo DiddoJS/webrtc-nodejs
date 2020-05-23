@@ -5,6 +5,10 @@ A basic webrtc implementation on Node.js
 
 ```npm run dev```
 
+You will see something like the following...
+
+![nodemon]()
+
 ## Dependencies
 
 Type Script
