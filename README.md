@@ -3,6 +3,8 @@ A basic webrtc implementation on Node.js
 
 ## Run
 
+```npm install```
+
 ```npm run dev```
 
 You will see something like the following...
