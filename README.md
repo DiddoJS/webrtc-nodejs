@@ -11,6 +11,8 @@ You will see something like the following...
 
 ![nodemon](https://raw.githubusercontent.com/NodeJS-Bots/webrtc-nodejs/master/docs/nodemon.png)
 
+![newindex](https://raw.githubusercontent.com/NodeJS-Bots/webrtc-nodejs/master/docs/newhelloworld.png)
+
 ## Creating tsconfig.json for Type Script
 
 ```tsc --init```
