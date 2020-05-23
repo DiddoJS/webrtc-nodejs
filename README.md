@@ -7,7 +7,7 @@ A basic webrtc implementation on Node.js
 
 You will see something like the following...
 
-![nodemon]()
+![nodemon](https://raw.githubusercontent.com/NodeJS-Bots/webrtc-nodejs/master/docs/nodemon.png)
 
 ## Dependencies
 
