@@ -1,5 +1,5 @@
 # webrtc-nodejs
-A basic webrtc implementation on Node.js
+A basic webrtc implementation on Node.js This project uses Type Script.
 
 ## Run
 
@@ -14,6 +14,7 @@ You will see something like the following...
 ## Dependencies
 
 Type Script
+Nodemon
 
 #### References
 
