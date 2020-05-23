@@ -11,6 +11,10 @@ You will see something like the following...
 
 ![nodemon](https://raw.githubusercontent.com/NodeJS-Bots/webrtc-nodejs/master/docs/nodemon.png)
 
+## Creating tsconfig.json for Type Script
+
+```tsc --init```
+
 ## Dependencies
 
 Type Script
